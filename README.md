@@ -6,7 +6,7 @@ _"When deciding a saying to be a truth or false, and the decision cannot be made
 
 So i'm here to automate. The script will take a search String and a number and opens the top results in new tabs in google chrome.
 
-At the moment, the script will expect for the chrome.exe file to be found on it's default installtion location, which is:
+At the moment, the script will expect for the chrome.exe file to be found on it's default installtion location on windows, which is:
 
 C:/Program Files (x86)/Google/Chrome/Application/chrome.exe
 
