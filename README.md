@@ -2,7 +2,7 @@
 
 A good friend once said:
 
-_"When deciding a saying to be a truth or false, and the decision cannot be made, one should turn to google. Open 10 tab, figure the majority and have a result so is my word"._
+_"When deciding a saying to be a truth or false, and the decision cannot be made, one should turn to google. Open 10 tabs, figure the majority and have a final result so is my word"._
 
 So i'm here to automate. The script will take a search String and a number and opens the top results in new tabs in google chrome.
 
